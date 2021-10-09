@@ -1,4 +1,4 @@
-package com.ominiyi.techquest.config;
+package com.omoniyi.codetest.interview.config;
 
 import java.util.Collections;
 
